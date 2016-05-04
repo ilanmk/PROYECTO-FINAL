@@ -1,0 +1,22 @@
+Nombre
+Apellido
+Mail
+Contraseña
+Fecha de nacimiento
+Peso
+Altura
+Sexo
+Complicaciones fisicas		
+Alguna vez fue al gym
+
+
+arquitectura
+diseño
+trello
+
+Android-web service:C#-base de datos:sql server
+
+DER
+casos de uso
+Pasar en limpio diseño
+Mejorar Trello

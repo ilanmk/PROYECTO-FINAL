@@ -1,0 +1,22 @@
+CASOS DE USO
+
+-Registrando Usuario
+-Logueando usuario
+-Agregando instructor 
+-viendo comentarios
+-Eligiendo instruido
+-Buscando Rutinas
+-Viendo rutinas
+-Viendo Popularidad de la rutina
+-Filtrando rutinas
+-Agregando rutinas
+-Eliminando Rutinas
+-Editando Rutinas
+-Cargando ejercisios
+-Viendo popularidad de maquina
+-Agregando indicaciones de maquina
+-Viendo rutina U
+-Check rutina/control de tiempo
+-Calificando ejercisio
+-Notificando uso
+-Comentando Instructor

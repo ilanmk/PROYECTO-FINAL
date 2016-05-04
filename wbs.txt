@@ -1,0 +1,39 @@
+Registrarse:
+
+- Ingresar datos
+
+Loguearse:
+-Dueño:
+   
+   -Agregar Instructor
+   -Rutina: -Ver calificaciones 
+   -Ver comentarios de instructores
+  -Ver tiempo promedio de instruidos en gimnasio
+        -
+
+-Instructor 
+ -Rutina:
+         -Elegir Instruido
+          -Buscar Rutinas
+              -Ver Rutina
+           -Ver popularidad de rutinas
+           - Ver cantidad de usos de rutina
+                 -Filtrar por musculo/Grupo Muscular
+      -Agregar -Eliminar -Editar
+        -Cargar Ejercicios
+
+                   Maquina/Ejercisio: Peso-Agarre-foto-Repeticiones
+                     -Ver popularidad de Maquina/Ejercicio
+
+      -Asignar rutina a instruido
+                 
+
+Instruido:
+  -Rutina:
+
+      -Ver -Calificar Ejercicio -Notificar uso de rutina -comentar sobre instructor -Check Ejercicio/Control de tiempo
+
+
+
+
+
